@@ -1,3 +1,0 @@
-[2020-08-21 22:27:06] Dubbo service server started!
-[2020-08-21 22:28:46.695] {DEBUG} com.mooc.demo.service.DemoServiceImpl 16 - dubbo say hello to : 1
-[2020-08-21 22:28:50.919] {WARN} com.alibaba.dubbo.remoting.transport.AbstractServer 205 -  [DUBBO] All clients has discontected from /172.16.5.78:20880. You can graceful shutdown now., dubbo version: 2.6.2, current host: 172.16.5.78
